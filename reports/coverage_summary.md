@@ -4,9 +4,9 @@
 
 | key | current_ratio | target_ratio | count |
 |---|---:|---:|---:|
-| attack | 22.7% | 24% | 843 |
+| attack | 22.7% | 24% | 840 |
 | move | 23.2% | 22% | 861 |
-| skill | 26.4% | 26% | 981 |
+| skill | 26.5% | 26% | 981 |
 | skillControl | 8.7% | 8% | 321 |
 | wait | 8.2% | 8% | 304 |
 | empty | 10.8% | 12% | 400 |
@@ -15,7 +15,7 @@
 
 | key | current_ratio | target_ratio | count |
 |---|---:|---:|---:|
-| explicit_actor | 57.2% | 40% | 2122 |
+| explicit_actor | 57.2% | 40% | 2119 |
 | explicit_multi_actor | 14.5% | 12% | 537 |
 | global_condition | 9.4% | 16% | 348 |
 | global_role_based | 6.5% | 12% | 242 |
@@ -26,7 +26,7 @@
 
 | key | current_ratio | target_ratio | count |
 |---|---:|---:|---:|
-| explicit_enemy_target | 26.1% | 21% | 969 |
+| explicit_enemy_target | 26.1% | 21% | 966 |
 | explicit_ally_target | 12.9% | 13% | 479 |
 | nearest_enemy | 4.5% | 8% | 167 |
 | lowest_hp_enemy | 5.2% | 8% | 194 |
@@ -43,7 +43,7 @@
 
 | key | current_ratio | target_ratio | count |
 |---|---:|---:|---:|
-| attack_only | 8.2% | 13% | 303 |
+| attack_only | 8.1% | 13% | 300 |
 | move_only | 13.6% | 13% | 504 |
 | move_then_attack | 11.0% | 11% | 409 |
 | skill_only | 18.6% | 19% | 689 |
@@ -61,10 +61,10 @@
 
 | key | current_ratio | target_ratio | count |
 |---|---:|---:|---:|
-| direct_korean | 30.4% | 35% | 1129 |
+| direct_korean | 30.4% | 35% | 1126 |
 | casual_korean | 31.6% | 20% | 1172 |
-| elliptical_korean | 8.5% | 20% | 317 |
-| tactical_korean | 12.3% | 15% | 458 |
+| elliptical_korean | 8.6% | 20% | 317 |
+| tactical_korean | 12.4% | 15% | 458 |
 | rough_korean | 17.1% | 10% | 634 |
 
 ## Skill Family
